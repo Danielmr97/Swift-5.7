@@ -3,5 +3,9 @@
     <pages>
         <page name='clasesInstanciasObjets'/>
         <page name='CopiaVsReferencia'/>
+        <page name='Optionals'/>
+        <page name='optionalBinding'/>
+        <page name='OptionalChaining'/>
+        <page name='GuardLed'/>
     </pages>
 </playground>
