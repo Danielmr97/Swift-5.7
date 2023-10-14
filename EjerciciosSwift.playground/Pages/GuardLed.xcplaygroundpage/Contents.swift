@@ -3,7 +3,8 @@ var myOptinalString : String?
 
 func myFuntion(){
     guard let myString = myOptinalString else {
-        print("myString es nulo")
+        print("myString es nulo  ")
+        
         return
     }
     
